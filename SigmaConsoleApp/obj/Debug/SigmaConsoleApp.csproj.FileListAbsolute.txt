@@ -1,0 +1,5 @@
+C:\RachieServer\Projects\ProjectReview\SigmaConsoleApp\SigmaConsoleApp\bin\Debug\SigmaConsoleApp.exe.config
+C:\RachieServer\Projects\ProjectReview\SigmaConsoleApp\SigmaConsoleApp\bin\Debug\SigmaConsoleApp.exe
+C:\RachieServer\Projects\ProjectReview\SigmaConsoleApp\SigmaConsoleApp\bin\Debug\SigmaConsoleApp.pdb
+C:\RachieServer\Projects\ProjectReview\SigmaConsoleApp\SigmaConsoleApp\obj\Debug\SigmaConsoleApp.exe
+C:\RachieServer\Projects\ProjectReview\SigmaConsoleApp\SigmaConsoleApp\obj\Debug\SigmaConsoleApp.pdb
